@@ -6,7 +6,7 @@ EV_Dashboard.rar (Nextion Editor içerisinde kullandığımız tüm dosyaları i
 
 1 - 01_hmi_project
 - EV_Dashboard_v01 (.hmi uzantılı proje dosyamız, yalnız nextion editor ile açılabilir)
-- 
+ 
 2 - 02_images_raw
   
 3 - 03_images_nextion (nextion editor içerisinde kullandığımız tüm görselleri içerir)
