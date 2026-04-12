@@ -20,7 +20,7 @@ EV_Dashboard.rar (Nextion Editor içerisinde kullandığımız tüm dosyaları i
 === KULLANIM ===
 
 01_hmi_project isimli dosya içerisindeki EV_Dashboard_v01.hmi dosyayı Nextion Editor içerisinde;
-File>Open>EV_Dashboard_v01.hmi ile açmak.
+File > Open > EV_Dashboard_v01.hmi ile açmak.
 
 === REPOYA EKLEME YAPMA/YARDIMDA BULUNMA ===
 
